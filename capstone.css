@@ -114,6 +114,9 @@
 .images img{
     width:29vw;
 }
+.images:hover{
+    box-shadow: 0 0 10px #381664;
+}
 .images h3,p{
     color:rgba(56, 22, 100, 1);
 }
