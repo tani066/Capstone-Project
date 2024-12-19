@@ -95,7 +95,7 @@
 }
 .image img{
     border-radius: 22px;
-    height: 672px;
+    height: auto;
     margin-top: 50px;
     width: 94vw;
 }
